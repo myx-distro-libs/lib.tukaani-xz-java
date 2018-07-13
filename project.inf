@@ -1,0 +1,9 @@
+Type: ae3.Package
+Name: lib.tukaani-xz-java
+Title: Library Wrapper: XZ for Java from tukaani.org
+Requires: 
+Augments: 
+Suggests: 
+Declares: 
+Provides: lib.tukaani-xz-java tukaani-xz-java
+Replaces: 
