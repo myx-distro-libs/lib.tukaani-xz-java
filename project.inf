@@ -5,5 +5,8 @@ Requires:
 Augments: 
 Suggests: 
 Declares: 
-Provides: lib.tukaani-xz-java tukaani-xz-java
+Provides: \
+	lib.tukaani-xz-java \
+	tukaani-xz-java \
+	
 Replaces: 
