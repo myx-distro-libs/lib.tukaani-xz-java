@@ -1,0 +1,8 @@
+Name: lib.tukaani-xz-java
+Title: Library Wrapper: tukaani xz compression
+Requires: 
+Augments: 
+Suggests: 
+Declares: 
+Provides: lib.tukaani-xz-java
+Replaces: 
